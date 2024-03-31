@@ -1,7 +1,7 @@
 apps:
   - script: pnpm
     args: start
-    name: builder-ssr
+    name: builder
     instances: 1
     watch: true
     env:
